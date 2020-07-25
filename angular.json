@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularRefresher"
+    }
+  },
+  "defaultProject": "AngularRefresher",
+  "cli": {
+    "analytics": false
+  }
 }
